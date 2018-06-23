@@ -14,6 +14,8 @@ To clone out this repository from git, you'll also need git installed. New to th
 
 ## Check out the source:
 
+The following command should be sufficient on OS X or a Linux box. Using Windows? Check out the **Installing git on Windows, OS X, or Debian/Ubuntu** section further down - after installing a git client, you'll need to adjust line terminators with another command in order for everything to work as expected.
+
 ```shell
 git clone https://github.com/kamwoods/vagrant-apache-flask-minimal
 ```

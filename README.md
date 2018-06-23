@@ -1,6 +1,6 @@
 # Automatically deploy a simple Flask "Hello World" app in a VM using Vagrant. Serves content via Apache and mod_wsgi.
 
-Minimal example for new users getting started with Vagrant, Flask, Apache, and mod_wsgi. To **keep** things simple, the Vagrant bootstrap is a single bash script (no Salt or Ansible here), the Flask app is a simple "Hello World", and it it **only** tested with the **bento/Ubuntu-18.04** base box.
+Minimal example for new users getting started with Vagrant, Flask, Apache, and mod_wsgi. To **keep** things simple, the Vagrant bootstrap is a single bash script (no Salt or Ansible here), the Flask app is a simple "Hello World", and it is **only** tested with the **bento/Ubuntu-18.04** base box.
 
 See a problem, or something that could be improved? Submit a pull request!
 

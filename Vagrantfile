@@ -17,7 +17,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
     config.vm.network :forwarded_port, :host => 8080, :guest => 80
 
     config.vm.provider :virtualbox do |vb|
-      vb.name = "vaf-minimal"
+      vb.name = "vfa-minimal"
       vb.memory = 2048
       vb.cpus = 2
     end
